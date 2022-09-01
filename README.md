@@ -1,3 +1,5 @@
+## Important: The `steganography` repo is an improved version of this project.
+
 # PPM Hidden Message
 
 A quick evening project that converts a string into a PPM file. I also added a simple decoder.
